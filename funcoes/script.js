@@ -4,7 +4,7 @@ function soma1(num1, num2){
     return num1 + num2;
 }
 
-//função referenciada pela soma2
+/// função referenciada pela soma2
 const soma2 = function(num1, num2){
     return num1 + num2;
 }

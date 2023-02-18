@@ -3,7 +3,7 @@ const list2 = [];
 const nomes = ['MARIA', 'JOAO', 'ANABELA'];
 
 // ------------------------------------------------------------
-// map: aplica uma função a cada elemento da coleção original, 
+/// map: aplica uma função a cada elemento da coleção original, 
 // retornando uma nova coleção com os elementos alterados
 
 function dobro(x) {

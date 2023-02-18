@@ -62,4 +62,4 @@ console.log(obj.nome);
 //Como pegar um objeto javascript e converter para texto
 const text = JSON.stringify(obj);
 
-console.log(text);//em texto
+console.log(text);///em texto
