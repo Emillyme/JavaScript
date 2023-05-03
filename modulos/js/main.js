@@ -13,3 +13,8 @@ const obj = new Product("Computador", 900.0, 20);
 console.log(nb.sum(3,4));
 console.log(nb.exp(3,4));
 console.log(obj);
+
+
+//OBS: MODULOS SÃO STRICT MODE por padrão.
+//Dentro do modulo, THIS é UNDEFINED e não uma referencia para window.
+//Membros criados "soltos" não pertecem a window.
