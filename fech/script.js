@@ -23,3 +23,5 @@ fetchResult
 console.log("A");
 console.log("B");
 
+//IMPRIMIU PRIMEIRO O "A" E O "B" PQ É UM PROGRAMA ASSINCRONO.
+
